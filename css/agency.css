@@ -171,7 +171,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: rgba(0,0,0,0);
 }
 
 .navbar-default .navbar-brand {
@@ -187,7 +187,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: rgba(255,255,255,.02);
+    border-color: rgba(255,255,255,1);
 }
 
 .navbar-default .navbar-toggle {
@@ -209,7 +209,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #000;
+    color: #ffa500;
 }
 
 .navbar-default .nav li a:hover,
@@ -220,13 +220,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #000;
+    color: rgba(0,0,0,0);
     background-color: #fed136;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #000;
+    color: rgba(0,0,0,0);
     background-color: #fec503;
 }
 
@@ -252,8 +252,8 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink {
-        padding: 10px 0;
-        background-color: #222;
+        padding: 0px 0;
+        background-color: #0F47AE;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -265,7 +265,7 @@ header {
     text-align: center;
     color: #000;
     background-attachment: scroll;
-   <!-- background-image: url(../img/header-bg.jpg);-->
+    background-image: url(../img/roycehall.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
