@@ -1,6 +1,10 @@
 html, 
 body{
-background: #ecf0f1;
+/*background: #ecf0f1;
+*/
+background-image: url("../img4.jpg"); 
+background-size: 100% 100%; 
+
 }
 
 h1, h2, h3{
@@ -11,7 +15,7 @@ h1, h2, h3{
 h1{
   font-family: 'Lato', Arial, sans-serif;
   font-weight: 700;
-  font-size: 70px;
+  font-size: 60px;
   margin-top: 15px;
   color: #e74c3c;
 
@@ -20,9 +24,10 @@ h1{
 h3{
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
-  font-size: 35px;
+  font-size: 25px;
   margin-top: 35px;
-  color: #918e84;
+  /*color: #e74c3c;*/
+  color:#e67e22;
 }
 
 /*#social ul {
