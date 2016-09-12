@@ -5,10 +5,10 @@ layout: home
 
 Double majoring in computer science and economics at UCLA. 
 
-Interned at AT&T. Formerly at Del Taco. 
+Interned at [AT&T](att.com). Formerly at (Del Taco)[deltaco.com]. 
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Can be found playing around with Objective-C and Swift, reading up on new design thinking methodologies and UI trends, reading about cars, or playing video games.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Currently looking for Software Engineering, Product Management, or Analyst positions in the technology, financial, or automotive fields for Summer 2017. 
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Have a question, want to work together, or just want to get in touch? Feel free to [reach out](mailto:raks.garg@gmail.com).
