@@ -1,7 +1,11 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
+
+Double majoring in computer science and economics at UCLA. 
+
+Interned at AT&T. Formerly at Del Taco. 
 
 This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
