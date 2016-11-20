@@ -3,7 +3,7 @@ layout: home
 ---
 # About Me
 
-Double majoring in Computer Science and Economics at [UCLA](https://www.ucla.edu). 
+Majoring in Computer Science at [UCLA](https://www.ucla.edu). 
 
 Interned at [AT&T](https://www.att.com). Formerly at [Del Taco](https://www.deltaco.com). 
 
