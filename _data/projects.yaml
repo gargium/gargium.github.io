@@ -23,15 +23,13 @@
   image: https://i2.imgpile.com/i/riJHh.png
   completed: true
 
-# - title: Start Page
-#   url: http://taylantatli.me/StartPage/
-#   image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-#   completed: false
+- title:
+  url: https://github.com/gargium/Dapper-Final-LAHacks-15
+  image: https://i3.imgpile.com/i/riPpE.png
+  completed: true
 
 - title: More coming soon! 
-
-# Go Scanner
-# Dapper 
+ 
 # Boulder Blast
 # Cipher
 # Unplug 
