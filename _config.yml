@@ -59,6 +59,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-seo-tag
 
 # Exclude list
 include: [_pages]
