@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Design for Social Good"
-date:   Summer '16
-excerpt: "An end to end solution to help veterans in need."
+date:   2016-08-29
+excerpt: "Helping veterans in need through design thinking.""
 tag:
 - design
 - social impact
@@ -11,7 +11,9 @@ tag:
 
 ## Overview
 
-## Goals
+### Goals
 
-## Lessons Learned
+#### Lessons Learned
+
+##### Suggested Readings
 
