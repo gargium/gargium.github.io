@@ -3,7 +3,7 @@ layout: post
 title:  "Boom Bust Index"
 date:   2016-08-27
 excerpt: "A data-driven look at Silicon Valley's housing prices."
-image: images/Posts/boom-bust-index1.jpg
+image: images/Posts/BBI/boom-bust-index1.jpg
 tag:
 - data analytics
 - web development
@@ -26,7 +26,7 @@ I thought it'd be cool to visualize these trends by pulling data from [DATA.GOV]
 There are multiple factors that affect the valuation of a home, including local school APIs, crime rates, walkability scores, and proximity to industry. We can use census data to track home valuation growth and decline and gain insight into how well the supply of homes satisfies the demand from buyers. In the future, data like this could help urban planners figure out what neighborhoods to focus city resources on and better apportion public funds, thus increasing fiscal efficiency at the local municipality level. 
 
 ## Getting Up and Running
-* Fork the [Boom Bust Index on Github](https://github.com/gargium/ATT-Big-Data-Challenge)
+* Download the [Boom Bust Index on Github](https://github.com/gargium/ATT-Big-Data-Challenge)
 * Fire up Terminal and navigate to `/static/Data/` within the repo.
 * Run `./import.sh`
 * Run `mongo`
@@ -35,17 +35,24 @@ There are multiple factors that affect the valuation of a home, including local 
 
 ## Features
 
-Chart - Income Value 
+#### Interactive Charts
 
-Chart - Home Value 
+<figure class="half">
+    <a href="images/Posts/BBI/1.jpg"><img src="/images/Posts/BBI/1.jpg"></a>
+    <a href="images/Posts/BBI/2.jpg"><img src="/images/Posts/BBI/2.jpg"></a>
+    <figcaption>Charts displaying the income level and home values from 2010-2014 in Tract 500100 in Santa Clara County.</figcaption>
+</figure>
 
-BBI - Score
-Generally speaking, a neighborhood that has everything going for it will have a score closer to 1, while a neighborhood with nothing going for it will have a score closer to -1. 
+#### Map Visualization
+
 
 Map - GeoJSON values. 
 
 
+#### Index Calculation
 
+BBI - Score
+Generally speaking, a neighborhood that has everything going for it will have a score closer to 1, while a neighborhood with nothing going for it will have a score closer to -1. 
 
 ## Lessons Learned
 Moving forward, I want to explore the reasons why families choose the homes they do, and how buying and selling real estate can become more streamlined and efficient. For starters, it seems rather obvious that a family would buy whatever real estate best fits their needs, but why must the home-buyer tolerate the formal process of finding an agent, viewing lots of homes, making lots of offers, and hoping that one goes through. This seems like an area ripe for disruption, especially if we could create tools that understand a buyer's life and can suggest homes that would fit the buyer's mold more accurately. 
