@@ -13,13 +13,11 @@ tag:
 <center><b>EasyVest</b> is a chrome extension that speeds up an investor's analysis of key performance metrics when looking at stocks with MarketSmith.</center><br>
 
 ## Overview
-William O'Neil writes fantastic books about.
+William O'Neil writes fantastic books about strategies for investing in the stock market. 
 
 ## Goals
 
 ## Lessons Learned
-"Thank you for really trying to understand the struggles that veterans go through and how we can make a difference in their lives." - President of HoW. 
-
 
 ## Suggested Readings
 
