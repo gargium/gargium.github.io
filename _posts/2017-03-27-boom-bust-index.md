@@ -38,8 +38,8 @@ There are multiple factors that affect the valuation of a home, including local 
 #### Interactive Charts
 
 <figure class="half">
-    <a href="images/Posts/BBI/1.jpg"><img src="/images/Posts/BBI/1.jpg"></a>
-    <a href="images/Posts/BBI/2.jpg"><img src="/images/Posts/BBI/2.jpg"></a>
+    <a href="images/Posts/BBI/1.png"><img src="/images/Posts/BBI/1.png"></a>
+    <a href="images/Posts/BBI/2.png"><img src="/images/Posts/BBI/2.png"></a>
     <figcaption>Charts displaying the income level and home values from 2010-2014 in Tract 500100 in Santa Clara County.</figcaption>
 </figure>
 
