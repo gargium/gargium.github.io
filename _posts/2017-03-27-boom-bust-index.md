@@ -21,7 +21,11 @@ I thought it'd be cool to visualize these trends by pulling data from CitySDK, w
 
 There are multiple factors that play into the value of a home, such as local school APIs, crime rates, walkability scores, and proximity to industry. Regardless of the book value of a home, however, a house is only worth something if it can satisfy a buyer's needs. We can use census data to track home valuation growth and decline and gain insight into how well the supply of homes satisfies the demand from buyers. 
 
-## Goals
+## Screenshots and Use Cases
+
+
+## Technical Details
+
 
 ## Lessons Learned
 Moving forward, I want to explore the reasons why families choose the homes they do, and how buying and selling real estate can become more streamlined and efficient. For starters, it seems rather obvious that a family would buy whatever real estate best fits their needs, but why must the home-buyer tolerate the formal process of finding an agent, viewing lots of homes, making lots of offers, and hoping that one goes through. This seems like an area ripe for disruption, especially if we could create tools that understand a buyer's life and can suggest homes that would fit the buyer's mold more accurately. 
@@ -31,8 +35,5 @@ Think about the way third-party cookies work. I could look at a pair of sneakers
 If a model could understand a buyer's income, asset levels, occupation, and hobbies, it could suggest homes that are affordable and more likely to fit a buyer's needs instantly, solving the problem of finding homes to show a buyer in the first place. This information is not only a) volunteered by most users on a daily basis, but b) one could simply ask the buyer for it in exchange for a painless home-buying approach. 
 
 
-
 (Update 12/2016: I'll be interning at Redfin during Summer 2017! I'll be shipping tools that help agents and families buy and sell homes more easily. Can't wait!)
-
-## Suggested Readings
 
