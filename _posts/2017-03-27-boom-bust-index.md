@@ -55,16 +55,17 @@ Each census tract is assigned an index between -1 and 1, based on the rate of gr
 
 The methodology is extremely unscientific, and any trained statisticians would probably cringe, but I basically assumed all distributions to be normal and calculated a probability value from the z-score of each metric (API, home values, and incomes). Then, these p-values are added up and normalized, to yield an index between -1 and 1. 
 
-In general, a neighborhood/tract that has solid, steady growth in each of the three factors will have a score close to 1, while one with decline in every area will have a score close to -1. W e can use these numbers as indicators of loosely relatively prosperity from between tracts.
+In general, a neighborhood/tract that has solid, steady growth in each of the three factors will have a score close to 1, while one with decline in every area will have a score close to -1. We can use these numbers as indicators of loosely relatively prosperity from between tracts.
 
 
 ## Lessons Learned
-Moving forward, I want to explore the reasons why families choose the homes they do, and how buying and selling real estate can become more streamlined and efficient. For starters, it seems rather obvious that a family would buy whatever real estate best fits their needs, but why must the home-buyer tolerate the formal process of finding an agent, viewing lots of homes, making lots of offers, and hoping that one goes through. This seems like an area ripe for disruption, especially if we could create tools that understand a buyer's life and can suggest homes that would fit the buyer's mold more accurately. 
+Moving forward, I want to explore ways to streamline buying and selling real estate, and make it a much more efficient process. It's archaic that the home-buyer has to tolerate the formal process of finding an agent, viewing lots of homes, making lots of offers, and hoping that one goes through. This is an area ripe for disruption, especially if we could create and invest in tools that understand a buyer's life and suggest homes that fit the buyer's mold more accurately. 
 
-Think about the way tird-party cookies work. I could look at a pair of sneakers on Amazon and then get bored and go to Facebook, and I'll still see ads for those sneakers in my Facebook sidebar! It doesn't matter what website I visit. Ad providers can track my information and suggest exactly what I want across multiple domains. 
+If a model could understand a buyer's income, asset levels, occupation, and hobbies, it could suggest homes that are affordable and more likely to fit a buyer's needs instantly, solving the problem of finding homes to show a buyer in the first place. This information is not only a) volunteered by most users on a daily basis, but b) could be gathered by asking the buyer for it in exchange for a painless home-buying approach. 
 
-If a model could understand a buyer's income, asset levels, occupation, and hobbies, it could suggest homes that are affordable and more likely to fit a buyer's needs instantly, solving the problem of finding homes to show a buyer in the first place. This information is not only a) volunteered by most users on a daily basis, but b) one could simply ask the buyer for it in exchange for a painless home-buying approach. 
+And, given how quickly VR/AR are growing, it isn't farfetched to show people homes without ever scheduling an open house. Companies like Redfin and Houzz already have interior visualizations of homes, and porting those visualizations to a VR environment could save a lot of families a lot of time when they're buying a home. 
 
+In the Bay Area, homes are on the market for notoriously short amounts of time. Speeding up the home buying process would result in direct benefits to families that are hunting for homes, and enable real estate companies to move homes quicker. 
 
 (Update 12/2016: I'll be interning at [Redfin](https://www.redfin.com) during Summer 2017! I'll be shipping tools that help real estate agents and families buy and sell homes more easily.)
 
