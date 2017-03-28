@@ -3,7 +3,7 @@ layout: post
 title:  "Boom Bust Index"
 date:   2016-08-27
 excerpt: "A data-driven look at Silicon Valley's housing prices."
-image: https://unsplash.com/search/suburb?photo=DD9PITjMV4I
+image: images/Posts/boom-bust-index.jpg
 tag:
 - data analytics
 - web development
@@ -11,7 +11,7 @@ tag:
 ---
 
 ## Overview
-This summer, I was given the opportunity to participate in AT&T's Big Data Hackathon in San Francisco. The aim of the hackathon is simple: utilize data in a way that could bring us one step closer to realizing the #SmartCities Initiative. 
+This summer, I was given the opportunity to participate in AT&T's Big Data Hackathon in San Francisco. The hackathon's aim is simple: utilize data in a way that could bring us one step closer to realizing the #SmartCities Initiative. 
 
 Smart Cities is a movement that seeks to make our cities more connected. Human beings generate mind-boggling amounts of data, just by existing in today's world. We can leverage this data to create a framework that helps cities "become cleaner, safer, and more connected to their citizens." Ideally, the framework would be interwoven with aspects of everyday life in a city, including transportation to and from places, the way we interact with automobiles and other machines, energy and resource usage patterns, and civic engagement. The end result is a city that has the infrastructure and transparency to enrich the lives of everyone that lives and works there. 
 
