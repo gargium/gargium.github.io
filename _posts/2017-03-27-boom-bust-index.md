@@ -3,7 +3,7 @@ layout: post
 title:  "Boom Bust Index"
 date:   2016-08-27
 excerpt: "A data-driven look at Silicon Valley's housing prices."
-image: images/Posts/boom-bust-index.jpg
+image: images/Posts/boom-bust-index1.jpg
 tag:
 - data analytics
 - web development
