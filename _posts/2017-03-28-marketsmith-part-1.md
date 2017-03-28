@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "A MarketSmith Investor's Best Friend (Part 1)"
+date:   2016-12-31
+excerpt: "Creating a better way to invest with MarketSmith."
+image: http://viaimmobiler.com/wp-content/uploads/2016/05/stocks-chart-nxuai3h47gpgs0bb2l3czvdi5r5ahpl-fgjmlvtnz-1pdr-gtwqwdqdwq-55qq4jp9w=h900.jpg
+tag:
+- chrome extension
+- investing
+- web development
+---
+
+<center><b>EasyVest</b> is a chrome extension that speeds up an investor's analysis of key performance metrics when looking at stocks with MarketSmith.</center><br>
+
+## Overview
+William O'Neil writes fantastic books about.
+
+## Goals
+
+## Lessons Learned
+"Thank you for really trying to understand the struggles that veterans go through and how we can make a difference in their lives." - President of HoW. 
+
+
+## Suggested Readings
+
