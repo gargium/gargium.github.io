@@ -51,8 +51,12 @@ There are multiple factors that affect the valuation of a home, including local 
 
 #### Index Calculation
 
-BBI - Score
-Generally speaking, a neighborhood that has everything going for it will have a score closer to 1, while a neighborhood with nothing going for it will have a score closer to -1. 
+Each census tract is assigned an index between -1 and 1, based on the rate of growth of school API scores, home values, and household incomes. 
+
+The methodology is extremely unscientific, and any trained statisticians would probably cringe, but I basically assumed all distributions to be normal and calculated a probability value from the z-score of each metric (API, home values, and incomes). Then, these p-values are added up and normalized, to yield an index between -1 and 1. 
+
+In general, a neighborhood/tract that has solid, steady growth in each of the three factors will have a score close to 1, while one with decline in every area will have a score close to -1. W e can use these numbers as indicators of loosely relatively prosperity from between tracts.
+
 
 ## Lessons Learned
 Moving forward, I want to explore the reasons why families choose the homes they do, and how buying and selling real estate can become more streamlined and efficient. For starters, it seems rather obvious that a family would buy whatever real estate best fits their needs, but why must the home-buyer tolerate the formal process of finding an agent, viewing lots of homes, making lots of offers, and hoping that one goes through. This seems like an area ripe for disruption, especially if we could create tools that understand a buyer's life and can suggest homes that would fit the buyer's mold more accurately. 
