@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "A MarketSmith Investor's Best Friend (Part 1)"
+date:   2016-12-31
+excerpt: "Creating a better way to invest with MarketSmith."
+tag:
+- chrome extensions
+- investing
+- web development
+---
+
+## Overview
+William O'Neil writes fantastic books about 
+
+## Goals
+
+## Lessons Learned
+"Thank you for really trying to understand the struggles that veterans go through and how we can make a difference in their lives." - President of HoW. 
+
+
+## Suggested Readings
+

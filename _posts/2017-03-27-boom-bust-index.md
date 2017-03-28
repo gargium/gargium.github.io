@@ -32,12 +32,17 @@ There are multiple factors that affect the valuation of a home, including local 
 * Run `mongo`
 * Navigate to the root directory in the repo and run `python app.py`
 * Open your fav web browser and navigate to `localhost:5000`
-     
-And that's it! 
 
-## Screenshots and Use Cases
+## Features
 
+Chart - Income Value 
 
+Chart - Home Value 
+
+BBI - Score
+Generally speaking, a neighborhood that has everything going for it will have a score closer to 1, while a neighborhood with nothing going for it will have a score closer to -1. 
+
+Map - GeoJSON values. 
 
 
 
