@@ -3,7 +3,7 @@ layout: post
 title:  "A MarketSmith Investor's Best Friend (Part 1)"
 date:   2016-12-31
 excerpt: "Creating a better way to invest with MarketSmith."
-image: http://viaimmobiler.com/wp-content/uploads/2016/05/stocks-chart-nxuai3h47gpgs0bb2l3czvdi5r5ahpl-fgjmlvtnz-1pdr-gtwqwdqdwq-55qq4jp9w=h900.jpg
+image: images/Posts/MS/chart.jpg
 tag:
 - chrome extension
 - investing
