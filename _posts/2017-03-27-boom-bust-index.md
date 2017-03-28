@@ -21,12 +21,19 @@ Smart Cities is a movement that seeks to make our cities more connected. Human b
 
 Growing up in various parts of Silicon Valley, I've lived through moments of extraordinary change in the region's economic output and health. From the dot-com boom that brought my family here to the economic downturn that nearly halved the value of homes in the area, I've grown up steeped in a housing market that has been characterized by steep ups and downs. 
 
-I thought it'd be cool to visualize these trends by pulling data from [DATA.GOV](https://www.data.gov), which has a treasure trove of information about various cities. It has census information, crime data, the amount of bicycle racks on every corner, and much  more. I used CitySDK, which can be found on opendata, and I highly recommend [checking it out](https://uscensusbureau.github.io/citysdk/) for your own projects! 
+I thought it'd be cool to visualize these trends by pulling data from [DATA.GOV](https://www.data.gov), which has a treasure trove of information about various cities. It has census information, crime data, the amount of bicycle racks on every corner, and much  more. I used CitySDK, which can be found on DATA.GOV, and I highly recommend [checking it out](https://uscensusbureau.github.io/citysdk/) for your own projects! 
 
 There are multiple factors that affect the valuation of a home, including local school APIs, crime rates, walkability scores, and proximity to industry. We can use census data to track home valuation growth and decline and gain insight into how well the supply of homes satisfies the demand from buyers. 
 
 ## Getting Up and Running
-
+* Fork the [Boom Bust Index on Github](https://github.com/gargium/ATT-Big-Data-Challenge)
+* Fire up Terminal and navigate to `/static/Data/` within the repo.
+* Run `./import.sh`
+* Run `mongo`
+* Navigate to the root directory in the repo and run `python app.py`
+* Open your fav web browser and navigate to `localhost:5000`
+     
+And that's it! 
 
 ## Screenshots and Use Cases
 
