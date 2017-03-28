@@ -44,10 +44,10 @@ There are multiple factors that affect the valuation of a home, including local 
 </figure>
 
 #### Map Visualization
-
-
-Map - GeoJSON values. 
-
+<figure>
+    <a href="images/Posts/BBI/3.png"><img src="/images/Posts/BBI/3.png"></a>
+    <figcaption>Google Maps with color-coded overlays to indicate the home value growth of every tract in Contra Costa, Santa Clara, and San Francisco counties.</figcaption>
+</figure>
 
 #### Index Calculation
 
